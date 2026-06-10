@@ -4,4 +4,4 @@ This page is part of the [central academic repository](https://github.com/mauric
 
 ---
 
-Here you will find R-code for current and paste research projects
+Here you will find R-code for current and past research projects
